@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-build-an-array-with-stack-operations](https://github.com/satyam-8092/Leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/satyam-8092/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2181-smallest-index-with-equal-value](https://github.com/satyam-8092/Leetcode/tree/master/2181-smallest-index-with-equal-value) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/satyam-8092/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/satyam-8092/Leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/satyam-8092/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/satyam-8092/Leetcode/tree/master/0283-move-zeroes) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/satyam-8092/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Stack
 |  |
 | ------- |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1552-build-an-array-with-stack-operations](https://github.com/satyam-8092/Leetcode/tree/master/1552-build-an-array-with-stack-operations) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/satyam-8092/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Math
 |  |
 | ------- |
