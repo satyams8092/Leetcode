@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/satyam-8092/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/satyam-8092/Leetcode/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/satyam-8092/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0792-binary-search](https://github.com/satyam-8092/Leetcode/tree/master/0792-binary-search) |
 | [1552-build-an-array-with-stack-operations](https://github.com/satyam-8092/Leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/satyam-8092/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2181-smallest-index-with-equal-value](https://github.com/satyam-8092/Leetcode/tree/master/2181-smallest-index-with-equal-value) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/satyam-8092/Leetcode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/satyam-8092/Leetcode/tree/master/0268-missing-number) |
 | [0493-reverse-pairs](https://github.com/satyam-8092/Leetcode/tree/master/0493-reverse-pairs) |
+| [0792-binary-search](https://github.com/satyam-8092/Leetcode/tree/master/0792-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
