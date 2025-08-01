@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/satyam-8092/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/satyam-8092/Leetcode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/satyam-8092/Leetcode/tree/master/1013-fibonacci-number) |
+| [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/satyam-8092/Leetcode/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
 ## Binary Search
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/satyam-8092/Leetcode/tree/master/0268-missing-number) |
 | [0493-reverse-pairs](https://github.com/satyam-8092/Leetcode/tree/master/0493-reverse-pairs) |
 | [0792-binary-search](https://github.com/satyam-8092/Leetcode/tree/master/0792-binary-search) |
+| [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/satyam-8092/Leetcode/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/satyam-8092/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Bit Manipulation
 |  |
