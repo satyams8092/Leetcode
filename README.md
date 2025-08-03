@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/satyam-8092/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/satyam-8092/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/satyam-8092/Leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/satyam-8092/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/satyam-8092/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/satyam-8092/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/satyam-8092/Leetcode/tree/master/0283-move-zeroes) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/satyam-8092/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/satyam-8092/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/satyam-8092/Leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/satyam-8092/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/satyam-8092/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/satyam-8092/Leetcode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/satyam-8092/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -182,5 +184,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/satyam-8092/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/satyam-8092/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
