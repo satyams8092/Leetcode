@@ -11,7 +11,7 @@
  */
 class Solution {
 public:
-    TreeNode* convert(vector<int>nums,int left,int right){
+    TreeNode* convert(vector<int>& nums,int left,int right){
         if(left>right){
             return nullptr;
         }
