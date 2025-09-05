@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/satyam-8092/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/satyam-8092/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/satyam-8092/Leetcode/tree/master/0268-missing-number) |
+| [0319-bulb-switcher](https://github.com/satyam-8092/Leetcode/tree/master/0319-bulb-switcher) |
 | [0367-valid-perfect-square](https://github.com/satyam-8092/Leetcode/tree/master/0367-valid-perfect-square) |
 | [1013-fibonacci-number](https://github.com/satyam-8092/Leetcode/tree/master/1013-fibonacci-number) |
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/satyam-8092/Leetcode/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
@@ -253,4 +254,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/satyam-8092/Leetcode/tree/master/0463-island-perimeter) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/satyam-8092/Leetcode/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
