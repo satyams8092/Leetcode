@@ -1,44 +1,62 @@
 class Solution {
 public:
-    int minDays(vector<int>& bloomDay, int m, int k) {
-        if ((long long)m * k > bloomDay.size()) {
-            return -1;
-        }
-
-        int low = 1, high = 1e9;
-        while (low < high) {
-            int mid = low + (high - low) / 2;
-
-            if (canMakeBouquets(bloomDay, m, k, mid)) {
-                high = mid;
-            } else {
-                low = mid + 1;
+    int findMin(vector<int>& arr){
+        int minVal = arr[0];
+        for(int it : arr){
+            if(it < minVal){
+                minVal = it;
             }
         }
-
-        return low;
+        return minVal;
     }
-
-private:
-    bool canMakeBouquets(vector<int>& bloomDay, int m, int k, int day) {
-        int total = 0;
-        for (int i = 0; i < bloomDay.size(); i++) {
-            int count = 0;
-            while (i < bloomDay.size() && count < k && bloomDay[i] <= day) {
-                count++;
-                i++;
-            }
-
-            if (count == k) {
-                total++;
-                i--;
-            }
-
-            if (total >= m) {
-                return true;
+    
+    int findMax(vector<int>& arr){
+        int maxVal = arr[0];
+        for(int it : arr){
+            if(it > maxVal){
+                maxVal = it;
             }
         }
-
-        return false;
+        return maxVal;
+    }
+    
+    // Helper function to count bouquets possible on a given day
+    int countBouquets(vector<int>& bloomDay, int day, int k) {
+        int bouquets = 0;
+        int consecutive = 0;
+        
+        for(int bloom : bloomDay) {
+            if(bloom <= day) {  // Flower has bloomed
+                consecutive++;
+                if(consecutive == k) {  // We can make a bouquet
+                    bouquets++;
+                    consecutive = 0;  // Reset for next bouquet
+                }
+            } else {
+                consecutive = 0;  // Reset consecutive count
+            }
+        }
+        return bouquets;
+    }
+    
+    // Optimal Approach
+    int minDays(vector<int>& bloomDay, int m, int k) {
+        int n = bloomDay.size();
+        if(n < (long long)m * k) return -1;  // Prevent overflow
+        
+        int low = findMin(bloomDay);
+        int high = findMax(bloomDay);
+        
+        while(low<=high){
+            int mid=low+(high-low)/2;
+            int count=countBouquets(bloomDay,mid,k);
+            if(count>=m){
+                high=mid-1;   
+            } else{
+                low=mid+1;
+            }
+        }
+        
+        return low;
     }
 };
