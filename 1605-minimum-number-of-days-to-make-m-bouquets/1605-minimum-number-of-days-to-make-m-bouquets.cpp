@@ -1,25 +1,5 @@
 class Solution {
 public:
-    int findMin(vector<int>& arr){
-        int minVal = arr[0];
-        for(int it : arr){
-            if(it < minVal){
-                minVal = it;
-            }
-        }
-        return minVal;
-    }
-    
-    int findMax(vector<int>& arr){
-        int maxVal = arr[0];
-        for(int it : arr){
-            if(it > maxVal){
-                maxVal = it;
-            }
-        }
-        return maxVal;
-    }
-    
     // Helper function to count bouquets possible on a given day
     int countBouquets(vector<int>& bloomDay, int day, int k) {
         int bouquets = 0;
@@ -44,8 +24,11 @@ public:
         int n = bloomDay.size();
         if(n < (long long)m * k) return -1;  // Prevent overflow
         
-        int low = findMin(bloomDay);
-        int high = findMax(bloomDay);
+        int low = INT_MAX, high = INT_MIN;
+        for (int day : bloomDay) {
+            low = min(low, day);
+            high = max(high, day);
+        }
         
         while(low<=high){
             int mid=low+(high-low)/2;
@@ -55,8 +38,7 @@ public:
             } else{
                 low=mid+1;
             }
-        }
-        
+        } 
         return low;
     }
 };
