@@ -32,7 +32,8 @@ public:
         
         while(low<=high){
             int mid=low+(high-low)/2;
-            if(countBouquets(bloomDay,mid,k)>=m){
+            int count=countBouquets(bloomDay,mid,k);
+            if(count=countBouquets(bloomDay,mid,k)>=m){
                 high=mid-1;   
             } else{
                 low=mid+1;
