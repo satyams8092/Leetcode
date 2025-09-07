@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/satyam-8092/Leetcode/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/satyam-8092/Leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/satyam-8092/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/satyam-8092/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1552-build-an-array-with-stack-operations](https://github.com/satyam-8092/Leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/satyam-8092/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/satyam-8092/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/satyam-8092/Leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/satyam-8092/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/satyam-8092/Leetcode/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/satyam-8092/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/satyam-8092/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/satyam-8092/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Bit Manipulation
