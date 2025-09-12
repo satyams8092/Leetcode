@@ -17,10 +17,11 @@ public:
     }
 
     bool searchMatrix(vector<vector<int>>& matrix, int target) {
-        for(int i=0;i<matrix.size();i++){
-            bool isFound=search(matrix[i],target);
-            if(isFound){
-                return true;
+        int n=matrix.size();
+        for(int i=0;i<n;i++){
+            int m=matrix[i].size();
+            if(matrix[i][0]<=target && target<=matrix[i][m-1]){
+                return search(matrix[i],target);
             }
         }
         return false;
