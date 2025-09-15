@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1078-remove-outermost-parentheses](https://github.com/satyam-8092/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1552-build-an-array-with-stack-operations](https://github.com/satyam-8092/Leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 ## Simulation
 |  |
@@ -284,4 +285,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/satyam-8092/Leetcode/tree/master/0344-reverse-string) |
+| [1078-remove-outermost-parentheses](https://github.com/satyam-8092/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
