@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/satyam-8092/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/satyam-8092/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/satyam-8092/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/satyam-8092/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/satyam-8092/Leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/satyam-8092/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -287,8 +288,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/satyam-8092/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/satyam-8092/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/satyam-8092/Leetcode/tree/master/0344-reverse-string) |
 | [1078-remove-outermost-parentheses](https://github.com/satyam-8092/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/satyam-8092/Leetcode/tree/master/2032-largest-odd-number-in-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/satyam-8092/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
