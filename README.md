@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/satyam-8092/Leetcode/tree/master/0367-valid-perfect-square) |
 | [1013-fibonacci-number](https://github.com/satyam-8092/Leetcode/tree/master/1013-fibonacci-number) |
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/satyam-8092/Leetcode/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
+| [2032-largest-odd-number-in-string](https://github.com/satyam-8092/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/satyam-8092/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/satyam-8092/Leetcode/tree/master/0455-assign-cookies) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/satyam-8092/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2032-largest-odd-number-in-string](https://github.com/satyam-8092/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -288,4 +290,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/satyam-8092/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/satyam-8092/Leetcode/tree/master/0344-reverse-string) |
 | [1078-remove-outermost-parentheses](https://github.com/satyam-8092/Leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [2032-largest-odd-number-in-string](https://github.com/satyam-8092/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
