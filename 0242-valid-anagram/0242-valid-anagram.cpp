@@ -1,12 +1,18 @@
 class Solution {
 public:
-    // brute
     bool isAnagram(string s, string t) {
-        sort(s.begin(),s.end());
-        sort(t.begin(),t.end());
-        if(s==t){
-            return true;
+        vector<int> count(26,0);
+        for(char ch:s){
+            count[ch-'a']++;
         }
-        return false;
+        for(char ch:t){
+            count[ch-'a']--;
+        }
+        //to check all zeroes
+        //lambda, can use for loop also
+        bool allZeroes=all_of(begin(count),end(count),[](int element){
+            return element==0;
+        });
+        return allZeroes;
     }
 };
