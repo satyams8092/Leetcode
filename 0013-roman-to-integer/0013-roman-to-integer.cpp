@@ -11,16 +11,14 @@ public:
         mp['M']=1000;
 
         int result=0;
-        int n=s.length();
         
-        for(int i=0;i<n;i++){
+        for(int i=0;i<s.length();i++){
             if(mp[s[i]]>=mp[s[i+1]]){
                 result+=mp[s[i]];
             }else{
                 result-=mp[s[i]];
             }
         }
-        // result+=mp[s[n-1]];
         return result;
     }
 };
