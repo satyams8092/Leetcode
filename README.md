@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/satyam-8092/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/satyam-8092/Leetcode/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/satyam-8092/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0796-rotate-string](https://github.com/satyam-8092/Leetcode/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/satyam-8092/Leetcode/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/satyam-8092/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/satyam-8092/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/satyam-8092/Leetcode/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/satyam-8092/Leetcode/tree/master/0812-rotate-string) |
 ## Heap (Priority Queue)
 |  |
