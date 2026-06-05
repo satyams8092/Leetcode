@@ -15,27 +15,18 @@ public:
     ListNode* oddEvenList(ListNode* head) {
         if(head==NULL||head->next==NULL) return head;
         
-        vector<int> arr;
-        ListNode* temp=head;
-        while(temp!=NULL&&temp->next!=NULL){
-            arr.push_back(temp->val);
-            temp=temp->next->next;
-        }
-        if(temp) arr.push_back(temp->val);
+        ListNode* odd=head;
+        ListNode* even=head->next;
+        ListNode* evenHead=head->next;
 
-        temp=head->next;
-        while(temp!=NULL&&temp->next!=NULL){
-            arr.push_back(temp->val);
-            temp=temp->next->next;
-        }
-        if(temp) arr.push_back(temp->val);
+        while(even!=NULL&&even->next!=NULL){
+            odd->next=odd->next->next;
+            even->next=even->next->next;
 
-        int i=0;
-        temp=head;
-        while(temp!=NULL){
-            temp->val=arr[i++];
-            temp=temp->next;
+            odd=odd->next;
+            even=even->next;
         }
+        odd->next=evenHead;
         return head;
     }
 };
