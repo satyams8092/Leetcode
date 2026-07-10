@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/satyam-8092/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/satyam-8092/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/satyam-8092/Leetcode/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/satyams8092/Leetcode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/satyam-8092/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/satyam-8092/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/satyams8092/Leetcode/tree/master/0090-subsets-ii) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/satyam-8092/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/satyam-8092/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/satyam-8092/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/satyams8092/Leetcode/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/satyam-8092/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0463-island-perimeter](https://github.com/satyam-8092/Leetcode/tree/master/0463-island-perimeter) |
 | [1861-rotating-the-box](https://github.com/satyam-8092/Leetcode/tree/master/1861-rotating-the-box) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/satyams8092/Leetcode/tree/master/0079-word-search) |
 | [0463-island-perimeter](https://github.com/satyam-8092/Leetcode/tree/master/0463-island-perimeter) |
 ## Breadth-First Search
 |  |
@@ -356,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/satyam-8092/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/satyams8092/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/satyams8092/Leetcode/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/satyams8092/Leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/satyam-8092/Leetcode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/satyams8092/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/satyam-8092/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -413,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/satyams8092/Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/satyams8092/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/satyams8092/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0079-word-search](https://github.com/satyams8092/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/satyams8092/Leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/satyams8092/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/satyams8092/Leetcode/tree/master/0216-combination-sum-iii) |
