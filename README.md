@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/satyam-8092/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/satyam-8092/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/satyam-8092/Leetcode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/satyams8092/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/satyam-8092/Leetcode/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/satyam-8092/Leetcode/tree/master/0319-bulb-switcher) |
 | [0367-valid-perfect-square](https://github.com/satyam-8092/Leetcode/tree/master/0367-valid-perfect-square) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0090-subsets-ii](https://github.com/satyams8092/Leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/satyam-8092/Leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/satyams8092/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/satyam-8092/Leetcode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/satyam-8092/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/satyams8092/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/satyam-8092/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/satyams8092/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/satyam-8092/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/satyam-8092/Leetcode/tree/master/1013-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/satyams8092/Leetcode/tree/master/1922-count-good-numbers) |
