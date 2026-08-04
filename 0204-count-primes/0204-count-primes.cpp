@@ -1,8 +1,9 @@
 class Solution {
 public:
     int countPrimes(int n) {
-        vector<int> prime(n+1,1);
         if(n<2) return 0;
+        
+        vector<int> prime(n+1,1);
         for(int i=2;i*i<=n;i++){
             if(prime[i]==1){
                 for(int j=i*i;j<=n;j=j+i){
