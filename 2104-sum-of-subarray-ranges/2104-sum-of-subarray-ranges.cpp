@@ -63,6 +63,6 @@ public:
     }
 
     long long subArrayRanges(vector<int>& nums) {
-        return sumSubarrayMax(nums) - sumSubarrayMin(nums);  // ✅
+        return sumSubarrayMax(nums) - sumSubarrayMin(nums);
     }
 };
