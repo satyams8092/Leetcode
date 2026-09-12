@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/satyam-8092/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2047-find-a-peak-element-ii](https://github.com/satyam-8092/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2102-find-the-middle-index-in-array](https://github.com/satyam-8092/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
+| [2104-sum-of-subarray-ranges](https://github.com/satyams8092/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2181-smallest-index-with-equal-value](https://github.com/satyam-8092/Leetcode/tree/master/2181-smallest-index-with-equal-value) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/satyam-8092/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/satyam-8092/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1552-build-an-array-with-stack-operations](https://github.com/satyam-8092/Leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/satyam-8092/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [2104-sum-of-subarray-ranges](https://github.com/satyams8092/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Simulation
 |  |
 | ------- |
@@ -501,4 +503,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/satyams8092/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/satyams8092/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/satyams8092/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/satyams8092/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->
