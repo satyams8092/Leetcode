@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/satyam-8092/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/satyam-8092/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/satyam-8092/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0460-lfu-cache](https://github.com/satyams8092/Leetcode/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/satyams8092/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/satyam-8092/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/satyam-8092/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -456,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/satyam-8092/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/satyam-8092/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/satyam-8092/Leetcode/tree/master/0328-odd-even-linked-list) |
+| [0460-lfu-cache](https://github.com/satyams8092/Leetcode/tree/master/0460-lfu-cache) |
 | [0876-middle-of-the-linked-list](https://github.com/satyam-8092/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/satyam-8092/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Backtracking
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/satyams8092/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/satyams8092/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/satyams8092/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0460-lfu-cache](https://github.com/satyams8092/Leetcode/tree/master/0460-lfu-cache) |
 | [0901-online-stock-span](https://github.com/satyams8092/Leetcode/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
@@ -539,4 +542,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/satyams8092/Leetcode/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/satyams8092/Leetcode/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
