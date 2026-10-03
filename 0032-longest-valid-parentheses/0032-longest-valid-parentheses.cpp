@@ -3,17 +3,17 @@ public:
     int longestValidParentheses(string s) {
         int res = 0;
         stack<int> st;
-        st.push(-1);                    // ✅ base index
+        st.push(-1);                 
 
         for(int i = 0; i < s.size(); i++){
             if(s[i] == '('){
-                st.push(i);             // push index
+                st.push(i);            
             } else {
-                st.pop();               // pop matching '(' or base
+                st.pop();               
                 if(st.empty()){
-                    st.push(i);         // ✅ new base at unmatched ')'
+                    st.push(i);        
                 } else {
-                    res = max(res, i - st.top());  // ✅ length from base
+                    res = max(res, i - st.top());  
                 }
             }
         }
