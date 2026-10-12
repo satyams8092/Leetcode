@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/satyam-8092/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/satyams8092/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/satyams8092/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/satyams8092/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Hash Table
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/satyams8092/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/satyams8092/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/satyam-8092/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/satyams8092/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Two Pointers
 |  |
 | ------- |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/satyams8092/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/satyam-8092/Leetcode/tree/master/0268-missing-number) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/satyams8092/Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/satyams8092/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Sorting
 |  |
 | ------- |
@@ -399,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/satyam-8092/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2032-largest-odd-number-in-string](https://github.com/satyam-8092/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/satyams8092/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/satyams8092/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Sliding Window
 |  |
 | ------- |
