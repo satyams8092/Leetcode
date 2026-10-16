@@ -11,24 +11,18 @@
  */
 class Solution {
 public:
-    TreeNode* insert(TreeNode* root,int val){
-        if(root==NULL){
-            return new TreeNode(val);
-        }
-        if(val<root->val){
-            root->left = insert(root->left,val);
-        }else if(val>root->val){
-            root->right = insert(root->right,val);
-        }
-        return root;
+    TreeNode* bstFromPreorder(vector<int>& preorder) {
+        int i=0;
+        return build(i, preorder, INT_MAX);
     }
 
-    TreeNode* bstFromPreorder(vector<int>& preorder) {
-        TreeNode* root=NULL;
-
-        for(int val:preorder){
-            root=insert(root,val);
+    TreeNode* build(int& i, vector<int>& pre, int bound){
+        if(i==pre.size() || pre[i]>bound){
+            return NULL;
         }
+        TreeNode* root=new TreeNode(pre[i++]);
+        root->left=build(i,pre,root->val);
+        root->right=build(i,pre,bound);
 
         return root;
     }
