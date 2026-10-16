@@ -16,9 +16,9 @@ public:
         TreeNode* node=root;
         while((p_<node->val && q_<node->val) || (p_>node->val && q_>node->val)){
             if(p_<node->val && q_<node->val){
-                if(node->left) node=node->left;
+                node=node->left;
             }else if(p_>node->val && q_>node->val){
-                if(node->right) node=node->right;
+                node=node->right;
             }
 
         }
