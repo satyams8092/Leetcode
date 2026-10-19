@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1914-cyclically-rotating-a-grid](https://github.com/satyam-8092/Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/satyam-8092/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2047-find-a-peak-element-ii](https://github.com/satyam-8092/Leetcode/tree/master/2047-find-a-peak-element-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/satyams8092/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/satyam-8092/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/satyams8092/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2181-smallest-index-with-equal-value](https://github.com/satyam-8092/Leetcode/tree/master/2181-smallest-index-with-equal-value) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/satyam-8092/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/satyam-8092/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2047-find-a-peak-element-ii](https://github.com/satyam-8092/Leetcode/tree/master/2047-find-a-peak-element-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/satyams8092/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/satyams8092/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Bit Manipulation
 |  |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/satyam-8092/Leetcode/tree/master/0455-assign-cookies) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/satyams8092/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/satyam-8092/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/satyams8092/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/satyams8092/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/satyams8092/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/satyams8092/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
