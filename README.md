@@ -577,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/satyam-8092/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/satyam-8092/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2032-largest-odd-number-in-string](https://github.com/satyam-8092/Leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/satyams8092/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Trie
 |  |
 | ------- |
