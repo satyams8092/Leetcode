@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/satyam-8092/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/satyam-8092/Leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/satyam-8092/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/satyams8092/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/satyam-8092/Leetcode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/satyam-8092/Leetcode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/satyam-8092/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/satyam-8092/Leetcode/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/satyam-8092/Leetcode/tree/master/0319-bulb-switcher) |
 | [0367-valid-perfect-square](https://github.com/satyam-8092/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/satyams8092/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0788-rotated-digits](https://github.com/satyam-8092/Leetcode/tree/master/0788-rotated-digits) |
 | [1013-fibonacci-number](https://github.com/satyam-8092/Leetcode/tree/master/1013-fibonacci-number) |
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/satyam-8092/Leetcode/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
