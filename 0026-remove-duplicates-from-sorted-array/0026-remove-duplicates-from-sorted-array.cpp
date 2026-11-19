@@ -5,10 +5,10 @@ public:
             return 0;
         }
 
-        int k = 1; // Initialize the count of unique elements to 1
+        int k = 1;
         for (int i = 1; i < nums.size(); i++) {
             if (nums[i] != nums[i - 1]) {
-                nums[k] = nums[i]; // Overwrite the next unique element
+                nums[k] = nums[i]; 
                 k++;
             }
         }
