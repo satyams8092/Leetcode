@@ -9,43 +9,48 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+class BSTIterator{
+    stack<TreeNode*> st;
+    bool reverse;
+
+    void pushAll(TreeNode* node){
+        while(node){
+            st.push(node);
+            node= reverse ? node=node->right : node=node->left;
+        }
+    }
+public:
+    BSTIterator(TreeNode* root,bool isReverse){
+        reverse=isReverse;
+        pushAll(root);
+    }
+
+    int next(){
+        TreeNode* node=st.top();
+        st.pop();
+        if(reverse) pushAll(node->left);
+        else pushAll(node->right);
+        return node->val;
+    }
+};
+
 class Solution {
 public:
     bool findTarget(TreeNode* root, int k) {
-        vector<int> arr=inorder(root);
+        if(!root) return false;
 
-        int i=0;
-        int j=arr.size()-1;
+        BSTIterator l(root,false);
+        BSTIterator r(root,true);
+
+        int i=l.next();
+        int j=r.next();
+
         while(i<j){
-            int sum=arr[i]+arr[j];
-            if(sum==k){
-                return true;
-            }else if(sum>k){
-                j--;
-            }else{
-                i++;
-            }
+            int sum=i+j;
+            if(sum==k) return true;
+            else if(sum<k) i=l.next();
+            else j=r.next();
         }
         return false;
-    }
-
-    vector<int> inorder(TreeNode* root){
-        vector<int> inorder;
-        stack<TreeNode*> st;
-        TreeNode* node=root;
-
-        while(true){
-            if(node){
-                st.push(node);
-                node=node->left;
-            }else{
-                if(st.empty()) break;
-                node=st.top();
-                st.pop();
-                inorder.push_back(node->val);
-                node=node->right;
-            }
-        }
-        return inorder;
     }
 };
